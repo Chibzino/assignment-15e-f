@@ -1,0 +1,78 @@
+body{
+  height: 3000px;
+}
+
+.first{
+  background-color: black;
+  color: white;
+  position: absolute;
+  border-radius: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-top: -12px;
+  margin-left: -12px;
+}
+.second{
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+.third{
+  background-color: black;
+  color: white;
+  position: absolute;
+  border-radius: 2px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  bottom: 10px;
+  right: 10px;
+  font-size: 14px;
+  height: 15px;
+}
+
+/* 15d */
+.container-div{
+  display: block;
+   margin-bottom: 5rem;
+}
+.container{
+  display: inline-block; 
+  position: relative;
+}
+.polo{
+  width: 300px;
+}
+.promo{
+  position:absolute;
+  background-color: BLACK;
+  color:white; 
+   font-family:sans-serif; 
+    top:7px; 
+    right: 0;
+}
+.button-div{
+  background-color: rgba(240, 236, 232, 0.815);
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0%;
+  height: 80px;
+  bottom: 0%;
+}
+.add-button{
+  height: 1.5rem;
+  border-width: 1px;
+  background-color: white;
+  color: black;
+  border-color: black;
+
+}

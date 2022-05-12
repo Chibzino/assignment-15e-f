@@ -1,0 +1,49 @@
+.overall{
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  margin-right: 1rem;
+}
+.first-section{
+ display: block;
+margin-right: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 10px 0px;
+}
+.image1{
+  overflow: hidden;
+  width: 185px;
+  height: 200px;
+}
+.oliver{
+  box-shadow: 2px 2px 2px 2px rgb(0 0 0 15%);
+  
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.image2-section{
+  display: inline-block;
+}
+.image2{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  margin-right: 1rem;
+  vertical-align: middle;
+}
+.mutual-section{
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+.mutual{
+  color: rgb(114, 113, 111);
+  vertical-align: middle;
+}
+
+.button1{
+  background-color: rgb(39, 39, 230);
+  border-radius: 0.3rem;
+  border: 0ch;
+  color: white;
+  height: 1.8rem;
+  width: 8rem;
